@@ -1,4 +1,4 @@
-# **README: Análisis Predictivo de Churn para Telecom X**  
+# **README: Análisis Predictivo para Telecom X 2**  
 
 ## **📌 Descripción del Proyecto**  
 Este proyecto tiene como objetivo **predecir la evasión de clientes (Churn)** en una empresa de telecomunicaciones utilizando técnicas de machine learning. A través de un análisis exhaustivo de los datos, identificamos los factores clave que influyen en la cancelación de servicios y generamos estrategias de retención basadas en insights accionables.  
